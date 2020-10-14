@@ -52,9 +52,11 @@ class Match {
 
       // checkout
       if (a.remaining == score) {
-        a.maxCheckout = [a.maxCheckout, score].reduce(max);
         a.totalLegs += 1;
         a.legs += 1;
+        a.legThrown = 0;
+        i.legThrown = 0;
+        a.maxCheckout = [a.maxCheckout, score].reduce(max);
         if (a.legs == legLimit) {
           a.sets += 1;
           a.legs = 0;
