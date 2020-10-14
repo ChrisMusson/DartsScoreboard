@@ -1,0 +1,23 @@
+name: darts_scoreboard
+description: A Flutter project that keeps track of the score of a match of darts.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  confetti: ^0.5.4+1
+
+dev_dependencies:
+  flutter_launcher_icons: "^0.8.0"
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/icon.png"
+
+flutter:
+  uses-material-design: true
