@@ -8,9 +8,6 @@ A basic Flutter project that keeps track of the score of a match of X01 darts.
 
 Alternatively, in the `.apks/` folder, I have included the `.apk` files that can be downloaded directly onto an Android device. If you don't know which Android ABI your device is using, then you can just download the larger `app-release.apk`.
 
-<img src="images/Match Setup.png" width="250">
-<img src="images/Start Match.png" width="250">
-<img src="images/Mid Match.png" width="250">
-<img src="images/Are You Sure.png" width="250">
-<img src="images/Confetti.png" width="250">
-<img src="images/Stats.png" width="250">
+<img src="images/Match Setup.png" width="250"/> <img src="images/Start Match.png" width="250"/>  
+<img src="images/Mid Match.png" width="250"/> <img src="images/Are You Sure.png" width="250"/>  
+<img src="images/Confetti.png" width="250"/> <img src="images/Stats.png" width="250"/>  
